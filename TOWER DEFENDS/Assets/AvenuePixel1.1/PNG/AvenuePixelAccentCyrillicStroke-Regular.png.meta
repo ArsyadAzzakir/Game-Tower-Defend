@@ -1,0 +1,3497 @@
+fileFormatVersion: 2
+guid: 073db459a1eee8f4c918e26b46693c50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6482571987125836564
+    second: AvenuePixelAccentCyrillicStroke-Regular_0
+  - first:
+      213: -4700815091387695136
+    second: AvenuePixelAccentCyrillicStroke-Regular_1
+  - first:
+      213: 4270568446311902421
+    second: AvenuePixelAccentCyrillicStroke-Regular_2
+  - first:
+      213: 7172034189150663957
+    second: AvenuePixelAccentCyrillicStroke-Regular_3
+  - first:
+      213: 300791703473779696
+    second: AvenuePixelAccentCyrillicStroke-Regular_4
+  - first:
+      213: 6561968713562482854
+    second: AvenuePixelAccentCyrillicStroke-Regular_5
+  - first:
+      213: -3416082455890738986
+    second: AvenuePixelAccentCyrillicStroke-Regular_6
+  - first:
+      213: 547525214893603249
+    second: AvenuePixelAccentCyrillicStroke-Regular_7
+  - first:
+      213: 6566691215516299208
+    second: AvenuePixelAccentCyrillicStroke-Regular_8
+  - first:
+      213: -1552248076762096908
+    second: AvenuePixelAccentCyrillicStroke-Regular_9
+  - first:
+      213: -3348728708891148665
+    second: AvenuePixelAccentCyrillicStroke-Regular_10
+  - first:
+      213: 8429692706939112789
+    second: AvenuePixelAccentCyrillicStroke-Regular_11
+  - first:
+      213: -7773773745993112089
+    second: AvenuePixelAccentCyrillicStroke-Regular_12
+  - first:
+      213: -4300045514241355035
+    second: AvenuePixelAccentCyrillicStroke-Regular_13
+  - first:
+      213: 4819175186961960882
+    second: AvenuePixelAccentCyrillicStroke-Regular_14
+  - first:
+      213: -581197977126488969
+    second: AvenuePixelAccentCyrillicStroke-Regular_15
+  - first:
+      213: 435633269988418305
+    second: AvenuePixelAccentCyrillicStroke-Regular_16
+  - first:
+      213: 5543298375732444381
+    second: AvenuePixelAccentCyrillicStroke-Regular_17
+  - first:
+      213: 4297458259914843829
+    second: AvenuePixelAccentCyrillicStroke-Regular_18
+  - first:
+      213: -8615824624269798636
+    second: AvenuePixelAccentCyrillicStroke-Regular_19
+  - first:
+      213: -8746963666794571440
+    second: AvenuePixelAccentCyrillicStroke-Regular_20
+  - first:
+      213: 5298040474259489247
+    second: AvenuePixelAccentCyrillicStroke-Regular_21
+  - first:
+      213: -6429574129512727235
+    second: AvenuePixelAccentCyrillicStroke-Regular_22
+  - first:
+      213: -2296587145434232624
+    second: AvenuePixelAccentCyrillicStroke-Regular_23
+  - first:
+      213: -2900957068239138155
+    second: AvenuePixelAccentCyrillicStroke-Regular_24
+  - first:
+      213: -4350280775274907331
+    second: AvenuePixelAccentCyrillicStroke-Regular_25
+  - first:
+      213: 5774570960018250883
+    second: AvenuePixelAccentCyrillicStroke-Regular_26
+  - first:
+      213: 524394550125925074
+    second: AvenuePixelAccentCyrillicStroke-Regular_27
+  - first:
+      213: -5412235458633791985
+    second: AvenuePixelAccentCyrillicStroke-Regular_28
+  - first:
+      213: -3242069937645765703
+    second: AvenuePixelAccentCyrillicStroke-Regular_29
+  - first:
+      213: 305259179414369254
+    second: AvenuePixelAccentCyrillicStroke-Regular_30
+  - first:
+      213: -9207048088375795955
+    second: AvenuePixelAccentCyrillicStroke-Regular_31
+  - first:
+      213: -7115014622891663534
+    second: AvenuePixelAccentCyrillicStroke-Regular_32
+  - first:
+      213: -4879847855870835609
+    second: AvenuePixelAccentCyrillicStroke-Regular_33
+  - first:
+      213: 8604283763611234936
+    second: AvenuePixelAccentCyrillicStroke-Regular_34
+  - first:
+      213: 80053224172579936
+    second: AvenuePixelAccentCyrillicStroke-Regular_35
+  - first:
+      213: -7067962850570697845
+    second: AvenuePixelAccentCyrillicStroke-Regular_36
+  - first:
+      213: -10188111280727318
+    second: AvenuePixelAccentCyrillicStroke-Regular_37
+  - first:
+      213: 6687714182617609549
+    second: AvenuePixelAccentCyrillicStroke-Regular_38
+  - first:
+      213: 5349886437514563966
+    second: AvenuePixelAccentCyrillicStroke-Regular_39
+  - first:
+      213: -3610027538119574145
+    second: AvenuePixelAccentCyrillicStroke-Regular_40
+  - first:
+      213: 8147235529574706555
+    second: AvenuePixelAccentCyrillicStroke-Regular_41
+  - first:
+      213: -3398078699578325094
+    second: AvenuePixelAccentCyrillicStroke-Regular_42
+  - first:
+      213: -3019264207429010504
+    second: AvenuePixelAccentCyrillicStroke-Regular_43
+  - first:
+      213: -699772829697404009
+    second: AvenuePixelAccentCyrillicStroke-Regular_44
+  - first:
+      213: -8905121760140568
+    second: AvenuePixelAccentCyrillicStroke-Regular_45
+  - first:
+      213: -9112435258064260900
+    second: AvenuePixelAccentCyrillicStroke-Regular_46
+  - first:
+      213: 3712204025677393361
+    second: AvenuePixelAccentCyrillicStroke-Regular_47
+  - first:
+      213: -8557472060986437931
+    second: AvenuePixelAccentCyrillicStroke-Regular_48
+  - first:
+      213: -4832729729970066344
+    second: AvenuePixelAccentCyrillicStroke-Regular_49
+  - first:
+      213: -6310807521202599486
+    second: AvenuePixelAccentCyrillicStroke-Regular_50
+  - first:
+      213: 3056918702390397689
+    second: AvenuePixelAccentCyrillicStroke-Regular_51
+  - first:
+      213: -7330336070084984995
+    second: AvenuePixelAccentCyrillicStroke-Regular_52
+  - first:
+      213: 2898114093307738198
+    second: AvenuePixelAccentCyrillicStroke-Regular_53
+  - first:
+      213: 7403264050250769832
+    second: AvenuePixelAccentCyrillicStroke-Regular_54
+  - first:
+      213: -3366750552384653250
+    second: AvenuePixelAccentCyrillicStroke-Regular_55
+  - first:
+      213: -3256257272452962075
+    second: AvenuePixelAccentCyrillicStroke-Regular_56
+  - first:
+      213: -6360829223207048915
+    second: AvenuePixelAccentCyrillicStroke-Regular_57
+  - first:
+      213: -6603345666104465067
+    second: AvenuePixelAccentCyrillicStroke-Regular_58
+  - first:
+      213: -4887060818789524920
+    second: AvenuePixelAccentCyrillicStroke-Regular_59
+  - first:
+      213: -5348706985096791799
+    second: AvenuePixelAccentCyrillicStroke-Regular_60
+  - first:
+      213: 4007500741768330434
+    second: AvenuePixelAccentCyrillicStroke-Regular_61
+  - first:
+      213: -8246840808199481925
+    second: AvenuePixelAccentCyrillicStroke-Regular_62
+  - first:
+      213: 1348148315573254639
+    second: AvenuePixelAccentCyrillicStroke-Regular_63
+  - first:
+      213: 3695037041523322863
+    second: AvenuePixelAccentCyrillicStroke-Regular_64
+  - first:
+      213: -4299551557704029635
+    second: AvenuePixelAccentCyrillicStroke-Regular_65
+  - first:
+      213: 1869937940150364700
+    second: AvenuePixelAccentCyrillicStroke-Regular_66
+  - first:
+      213: 5652058168871563552
+    second: AvenuePixelAccentCyrillicStroke-Regular_67
+  - first:
+      213: 8989797819040868645
+    second: AvenuePixelAccentCyrillicStroke-Regular_68
+  - first:
+      213: 8747543659802538304
+    second: AvenuePixelAccentCyrillicStroke-Regular_69
+  - first:
+      213: -8355825811691089097
+    second: AvenuePixelAccentCyrillicStroke-Regular_70
+  - first:
+      213: 2958440233502594550
+    second: AvenuePixelAccentCyrillicStroke-Regular_71
+  - first:
+      213: -6598524963941406123
+    second: AvenuePixelAccentCyrillicStroke-Regular_72
+  - first:
+      213: 1006941397299461155
+    second: AvenuePixelAccentCyrillicStroke-Regular_73
+  - first:
+      213: 6690712706403013175
+    second: AvenuePixelAccentCyrillicStroke-Regular_74
+  - first:
+      213: -774190946426698291
+    second: AvenuePixelAccentCyrillicStroke-Regular_75
+  - first:
+      213: -2649565131307454816
+    second: AvenuePixelAccentCyrillicStroke-Regular_76
+  - first:
+      213: 8782011624162124824
+    second: AvenuePixelAccentCyrillicStroke-Regular_77
+  - first:
+      213: -8280983414424242822
+    second: AvenuePixelAccentCyrillicStroke-Regular_78
+  - first:
+      213: -7645228198361715650
+    second: AvenuePixelAccentCyrillicStroke-Regular_79
+  - first:
+      213: 1041241304510410184
+    second: AvenuePixelAccentCyrillicStroke-Regular_80
+  - first:
+      213: 3430280473740046025
+    second: AvenuePixelAccentCyrillicStroke-Regular_81
+  - first:
+      213: 1419421276346815238
+    second: AvenuePixelAccentCyrillicStroke-Regular_82
+  - first:
+      213: -7907998618703196583
+    second: AvenuePixelAccentCyrillicStroke-Regular_83
+  - first:
+      213: -3993954647049645970
+    second: AvenuePixelAccentCyrillicStroke-Regular_84
+  - first:
+      213: -2325872421882423750
+    second: AvenuePixelAccentCyrillicStroke-Regular_85
+  - first:
+      213: -1798422209050946628
+    second: AvenuePixelAccentCyrillicStroke-Regular_86
+  - first:
+      213: -2629782418384835962
+    second: AvenuePixelAccentCyrillicStroke-Regular_87
+  - first:
+      213: 643178215419302779
+    second: AvenuePixelAccentCyrillicStroke-Regular_88
+  - first:
+      213: -5078547951751792375
+    second: AvenuePixelAccentCyrillicStroke-Regular_89
+  - first:
+      213: 2539888891523440845
+    second: AvenuePixelAccentCyrillicStroke-Regular_90
+  - first:
+      213: -3854434393557263289
+    second: AvenuePixelAccentCyrillicStroke-Regular_91
+  - first:
+      213: -3201852748858082614
+    second: AvenuePixelAccentCyrillicStroke-Regular_92
+  - first:
+      213: 2766703104942436801
+    second: AvenuePixelAccentCyrillicStroke-Regular_93
+  - first:
+      213: 2520827895904006447
+    second: AvenuePixelAccentCyrillicStroke-Regular_94
+  - first:
+      213: -7610853872707885664
+    second: AvenuePixelAccentCyrillicStroke-Regular_95
+  - first:
+      213: 3339043749325616238
+    second: AvenuePixelAccentCyrillicStroke-Regular_96
+  - first:
+      213: 5903872833069599682
+    second: AvenuePixelAccentCyrillicStroke-Regular_97
+  - first:
+      213: 4401707532015222680
+    second: AvenuePixelAccentCyrillicStroke-Regular_98
+  - first:
+      213: 674464363132887937
+    second: AvenuePixelAccentCyrillicStroke-Regular_99
+  - first:
+      213: 3290513148628653482
+    second: AvenuePixelAccentCyrillicStroke-Regular_100
+  - first:
+      213: -6455873935855287276
+    second: AvenuePixelAccentCyrillicStroke-Regular_101
+  - first:
+      213: 4462941835314079452
+    second: AvenuePixelAccentCyrillicStroke-Regular_102
+  - first:
+      213: 6755748659442298661
+    second: AvenuePixelAccentCyrillicStroke-Regular_103
+  - first:
+      213: -5681755337008310559
+    second: AvenuePixelAccentCyrillicStroke-Regular_104
+  - first:
+      213: -955120754398652205
+    second: AvenuePixelAccentCyrillicStroke-Regular_105
+  - first:
+      213: -4634521862127339008
+    second: AvenuePixelAccentCyrillicStroke-Regular_106
+  - first:
+      213: 1319296812963571623
+    second: AvenuePixelAccentCyrillicStroke-Regular_107
+  - first:
+      213: -8911215846930814397
+    second: AvenuePixelAccentCyrillicStroke-Regular_108
+  - first:
+      213: 1910712979892096828
+    second: AvenuePixelAccentCyrillicStroke-Regular_109
+  - first:
+      213: 5087665550510334004
+    second: AvenuePixelAccentCyrillicStroke-Regular_110
+  - first:
+      213: -5702056090900059940
+    second: AvenuePixelAccentCyrillicStroke-Regular_111
+  - first:
+      213: -3990289965610869585
+    second: AvenuePixelAccentCyrillicStroke-Regular_112
+  - first:
+      213: 1904324024609129828
+    second: AvenuePixelAccentCyrillicStroke-Regular_113
+  - first:
+      213: 2126506559512050950
+    second: AvenuePixelAccentCyrillicStroke-Regular_114
+  - first:
+      213: 4276491093820406351
+    second: AvenuePixelAccentCyrillicStroke-Regular_115
+  - first:
+      213: -6057675561796739523
+    second: AvenuePixelAccentCyrillicStroke-Regular_116
+  - first:
+      213: 4208567520652791950
+    second: AvenuePixelAccentCyrillicStroke-Regular_117
+  - first:
+      213: -7083606843013857055
+    second: AvenuePixelAccentCyrillicStroke-Regular_118
+  - first:
+      213: -582024768497976038
+    second: AvenuePixelAccentCyrillicStroke-Regular_119
+  - first:
+      213: -7479365599760050319
+    second: AvenuePixelAccentCyrillicStroke-Regular_120
+  - first:
+      213: 3135931665166141111
+    second: AvenuePixelAccentCyrillicStroke-Regular_121
+  - first:
+      213: 1457483270219863546
+    second: AvenuePixelAccentCyrillicStroke-Regular_122
+  - first:
+      213: -5721915301581174266
+    second: AvenuePixelAccentCyrillicStroke-Regular_123
+  - first:
+      213: 4699276811832540880
+    second: AvenuePixelAccentCyrillicStroke-Regular_124
+  - first:
+      213: -1196680254088108821
+    second: AvenuePixelAccentCyrillicStroke-Regular_125
+  - first:
+      213: -5537850488539592020
+    second: AvenuePixelAccentCyrillicStroke-Regular_126
+  - first:
+      213: -7343638580526827117
+    second: AvenuePixelAccentCyrillicStroke-Regular_127
+  - first:
+      213: -3119282846749954134
+    second: AvenuePixelAccentCyrillicStroke-Regular_128
+  - first:
+      213: 5367010595130671025
+    second: AvenuePixelAccentCyrillicStroke-Regular_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce46774bf174906a0800000000000000
+      internalID: -6482571987125836564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef7a03949953ceb0800000000000000
+      internalID: -4700815091387695136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dca96f106b144b30800000000000000
+      internalID: 4270568446311902421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5153841981f288360800000000000000
+      internalID: 7172034189150663957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f370fce570ac2400800000000000000
+      internalID: 300791703473779696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a86e1737cbc01b50800000000000000
+      internalID: 6561968713562482854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 195
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d040350b13a790d0800000000000000
+      internalID: -3416082455890738986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 191
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97d433843399700800000000000000
+      internalID: 547525214893603249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfe6826ed2912b50800000000000000
+      internalID: 6566691215516299208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fadf4d299e457ae0800000000000000
+      internalID: -1552248076762096908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ef3694bfce681d0800000000000000
+      internalID: -3348728708891148665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d8ec2cad84cf470800000000000000
+      internalID: 8429692706939112789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5a2d917f10e1490800000000000000
+      internalID: -7773773745993112089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d1ad236b2354c0800000000000000
+      internalID: -4300045514241355035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf8e39ac4621e240800000000000000
+      internalID: 4819175186961960882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 195
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743335e48b2fe7f0800000000000000
+      internalID: -581197977126488969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 195
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1036006a62eab0600800000000000000
+      internalID: 435633269988418305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc3889c080cdec40800000000000000
+      internalID: 5543298375732444381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6ea4bb483a3ab30800000000000000
+      internalID: 4297458259914843829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413d55f17217e6880800000000000000
+      internalID: -8615824624269798636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059167173ea8c9680800000000000000
+      internalID: -8746963666794571440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd101e9bdbb668940800000000000000
+      internalID: 5298040474259489247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 168
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3a51056095c6a0800000000000000
+      internalID: -6429574129512727235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 168
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d80aa8b822e020e0800000000000000
+      internalID: -2296587145434232624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59292f69aeabdb7d0800000000000000
+      internalID: -2900957068239138155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3937840fa2b0a3c0800000000000000
+      internalID: -4350280775274907331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c9c2271b5632050800000000000000
+      internalID: 5774570960018250883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 168
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21862a016074700800000000000000
+      internalID: 524394550125925074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 168
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f060c5f8680e3e4b0800000000000000
+      internalID: -5412235458633791985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 168
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb6a5a19ad103d0800000000000000
+      internalID: -3242069937645765703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 166
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3bb693b9f7c3400800000000000000
+      internalID: 305259179414369254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fdb6e6b8ef93080800000000000000
+      internalID: -9207048088375795955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f15deb5e3624d90800000000000000
+      internalID: -7115014622891663534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7640ed8ca3c474cb0800000000000000
+      internalID: -4879847855870835609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87275bcde7e886770800000000000000
+      internalID: 8604283763611234936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 141
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c6ee5bbf76c1100800000000000000
+      internalID: 80053224172579936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83831e2c3d89ed90800000000000000
+      internalID: -7067962850570697845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 141
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea1e2e77fdcbdff0800000000000000
+      internalID: -10188111280727318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45b346bd988fcc50800000000000000
+      internalID: 6687714182617609549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e715cb8be5d9e3a40800000000000000
+      internalID: 5349886437514563966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d3101b41b96edc0800000000000000
+      internalID: -3610027538119574145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dedb95c8bc01170800000000000000
+      internalID: 8147235529574706555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 141
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9700d03d6997d0d0800000000000000
+      internalID: -3398078699578325094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb7429333b6916d0800000000000000
+      internalID: -3019264207429010504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7939a66a158e946f0800000000000000
+      internalID: -699772829697404009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e22ec4c6dc50eff0800000000000000
+      internalID: -8905121760140568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 141
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b55c99602a8180800000000000000
+      internalID: -9112435258064260900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda64ca4e5648330800000000000000
+      internalID: 3712204025677393361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dec29dff70cd3980800000000000000
+      internalID: -8557472060986437931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c2aad5ae1beecb0800000000000000
+      internalID: -4832729729970066344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c90bdcdef18b68a0800000000000000
+      internalID: -6310807521202599486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa4a331d5b5c6a20800000000000000
+      internalID: 3056918702390397689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 114
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ff95a9e2a654a90800000000000000
+      internalID: -7330336070084984995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658392ab96b283820800000000000000
+      internalID: 2898114093307738198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 114
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5ed95fd6dadb660800000000000000
+      internalID: 7403264050250769832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3833cdd536e641d0800000000000000
+      internalID: -3366750552384653250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8a82a53437fc2d0800000000000000
+      internalID: -3256257272452962075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 114
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29e1d9c58bc9b7a0800000000000000
+      internalID: -6360829223207048915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 114
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596aba4a143c54a0800000000000000
+      internalID: -6603345666104465067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 109
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a125cf31cad2cb0800000000000000
+      internalID: -4887060818789524920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 112
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909b7a1f55395c5b0800000000000000
+      internalID: -5348706985096791799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 109
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc373621b08d9730800000000000000
+      internalID: 4007500741768330434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 114
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb513148af55d8d80800000000000000
+      internalID: -8246840808199481925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_63
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f84e00c595b210800000000000000
+      internalID: 1348148315573254639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef68e3bc98674330800000000000000
+      internalID: 3695037041523322863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae29563ace454c0800000000000000
+      internalID: -4299551557704029635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a20b236aa53f910800000000000000
+      internalID: 1869937940150364700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_67
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0213f6d65f4207e40800000000000000
+      internalID: 5652058168871563552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52923868c7d22cc70800000000000000
+      internalID: 8989797819040868645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04130c3bc94856970800000000000000
+      internalID: 8747543659802538304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 87
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733dc1102b42a0c80800000000000000
+      internalID: -8355825811691089097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_71
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 87
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55527c7bd7e0920800000000000000
+      internalID: 2958440233502594550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aa9ba71845d64a0800000000000000
+      internalID: -6598524963941406123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_73
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c7ba7addf59fd00800000000000000
+      internalID: 1006941397299461155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 87
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732185fe1cf2adc50800000000000000
+      internalID: 6690712706403013175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c9e1af658145f0800000000000000
+      internalID: -774190946426698291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_76
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae68231d8ada3bd0800000000000000
+      internalID: -2649565131307454816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 87
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814e8870b09ffd970800000000000000
+      internalID: 8782011624162124824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_78
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7577588579041d80800000000000000
+      internalID: -8280983414424242822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca9d1b571b6e590800000000000000
+      internalID: -7645228198361715650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_80
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 87
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdaec0237b337e00800000000000000
+      internalID: 1041241304510410184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceeb3d9aedca9f20800000000000000
+      internalID: 3430280473740046025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_82
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6039843612cc2b310800000000000000
+      internalID: 1419421276346815238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e8ae79725214290800000000000000
+      internalID: -7907998618703196583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_84
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d59dc86f9298c0800000000000000
+      internalID: -3993954647049645970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_85
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 60
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3612d4fa57d8bfd0800000000000000
+      internalID: -2325872421882423750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb358518788ba07e0800000000000000
+      internalID: -1798422209050946628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_87
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 58
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aaa9bd2d2218bd0800000000000000
+      internalID: -2629782418384835962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b735651ed270de800800000000000000
+      internalID: 643178215419302779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_89
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 60
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909fb019b8f5589b0800000000000000
+      internalID: -5078547951751792375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 58
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0273c6d7f7f3320800000000000000
+      internalID: 2539888891523440845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 60
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c98f9375c428ac0800000000000000
+      internalID: -3854434393557263289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_92
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 60
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acab43993ebb093d0800000000000000
+      internalID: -3201852748858082614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_93
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c17019b0dd456620800000000000000
+      internalID: 2766703104942436801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_94
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f04b8d97cbf220800000000000000
+      internalID: 2520827895904006447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 60
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a527df0ab0d06690800000000000000
+      internalID: -7610853872707885664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 60
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64ba08599aa65e20800000000000000
+      internalID: 3339043749325616238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb4136cf05cee150800000000000000
+      internalID: 5903872833069599682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 33
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fbdeadda1061d30800000000000000
+      internalID: 4401707532015222680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183223ac3cd2c5900800000000000000
+      internalID: 674464363132887937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_100
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa553c856404aad20800000000000000
+      internalID: 3290513148628653482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_101
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41484aa2cd02866a0800000000000000
+      internalID: -6455873935855287276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_102
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6202b14fd8fed30800000000000000
+      internalID: 4462941835314079452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_103
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 33
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f21edbc9d31cd50800000000000000
+      internalID: 6755748659442298661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e690fccf995621b0800000000000000
+      internalID: -5681755337008310559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_105
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8177cfbbabeb2f0800000000000000
+      internalID: -955120754398652205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a3e10dbeedeafb0800000000000000
+      internalID: -4634521862127339008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_107
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 33
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7aff126751f4210800000000000000
+      internalID: 1319296812963571623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_108
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a6bde9660055480800000000000000
+      internalID: -8911215846930814397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_109
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f4232f457348a10800000000000000
+      internalID: 1910712979892096828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_110
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4302922dcd40b9640800000000000000
+      internalID: 5087665550510334004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ac84323a3ed0b0800000000000000
+      internalID: -5702056090900059940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_112
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac55f0fa64af98c0800000000000000
+      internalID: -3990289965610869585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_113
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 33
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c1106c948d6a10800000000000000
+      internalID: 1904324024609129828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60df04cf27ed28d10800000000000000
+      internalID: 2126506559512050950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_115
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a7944fdf5295b30800000000000000
+      internalID: 4276491093820406351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_116
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e5a86eb20deeba0800000000000000
+      internalID: -6057675561796739523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_117
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8091c1bcd5d76a30800000000000000
+      internalID: 4208567520652791950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_118
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e002a95b19f1bd90800000000000000
+      internalID: -7083606843013857055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df2378e8b3ce7f0800000000000000
+      internalID: -582024768497976038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_120
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17796094d94f33890800000000000000
+      internalID: -7479365599760050319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_121
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6802e0c31158b20800000000000000
+      internalID: 3135931665166141111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_122
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5978bef450a3410800000000000000
+      internalID: 1457483270219863546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_123
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 4
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ac166695ca790b0800000000000000
+      internalID: -5721915301581174266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_124
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de328ecc5f273140800000000000000
+      internalID: 4699276811832540880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_125
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4aa5136a9846fe0800000000000000
+      internalID: -1196680254088108821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_126
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caacf5b425a9523b0800000000000000
+      internalID: -5537850488539592020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_127
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39938d88e97261a90800000000000000
+      internalID: -7343638580526827117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafef7d07c416b4d0800000000000000
+      internalID: -3119282846749954134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixelAccentCyrillicStroke-Regular_129
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf758c53b37b7a40800000000000000
+      internalID: 5367010595130671025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AvenuePixelAccentCyrillicStroke-Regular_0: -6482571987125836564
+      AvenuePixelAccentCyrillicStroke-Regular_1: -4700815091387695136
+      AvenuePixelAccentCyrillicStroke-Regular_10: -3348728708891148665
+      AvenuePixelAccentCyrillicStroke-Regular_100: 3290513148628653482
+      AvenuePixelAccentCyrillicStroke-Regular_101: -6455873935855287276
+      AvenuePixelAccentCyrillicStroke-Regular_102: 4462941835314079452
+      AvenuePixelAccentCyrillicStroke-Regular_103: 6755748659442298661
+      AvenuePixelAccentCyrillicStroke-Regular_104: -5681755337008310559
+      AvenuePixelAccentCyrillicStroke-Regular_105: -955120754398652205
+      AvenuePixelAccentCyrillicStroke-Regular_106: -4634521862127339008
+      AvenuePixelAccentCyrillicStroke-Regular_107: 1319296812963571623
+      AvenuePixelAccentCyrillicStroke-Regular_108: -8911215846930814397
+      AvenuePixelAccentCyrillicStroke-Regular_109: 1910712979892096828
+      AvenuePixelAccentCyrillicStroke-Regular_11: 8429692706939112789
+      AvenuePixelAccentCyrillicStroke-Regular_110: 5087665550510334004
+      AvenuePixelAccentCyrillicStroke-Regular_111: -5702056090900059940
+      AvenuePixelAccentCyrillicStroke-Regular_112: -3990289965610869585
+      AvenuePixelAccentCyrillicStroke-Regular_113: 1904324024609129828
+      AvenuePixelAccentCyrillicStroke-Regular_114: 2126506559512050950
+      AvenuePixelAccentCyrillicStroke-Regular_115: 4276491093820406351
+      AvenuePixelAccentCyrillicStroke-Regular_116: -6057675561796739523
+      AvenuePixelAccentCyrillicStroke-Regular_117: 4208567520652791950
+      AvenuePixelAccentCyrillicStroke-Regular_118: -7083606843013857055
+      AvenuePixelAccentCyrillicStroke-Regular_119: -582024768497976038
+      AvenuePixelAccentCyrillicStroke-Regular_12: -7773773745993112089
+      AvenuePixelAccentCyrillicStroke-Regular_120: -7479365599760050319
+      AvenuePixelAccentCyrillicStroke-Regular_121: 3135931665166141111
+      AvenuePixelAccentCyrillicStroke-Regular_122: 1457483270219863546
+      AvenuePixelAccentCyrillicStroke-Regular_123: -5721915301581174266
+      AvenuePixelAccentCyrillicStroke-Regular_124: 4699276811832540880
+      AvenuePixelAccentCyrillicStroke-Regular_125: -1196680254088108821
+      AvenuePixelAccentCyrillicStroke-Regular_126: -5537850488539592020
+      AvenuePixelAccentCyrillicStroke-Regular_127: -7343638580526827117
+      AvenuePixelAccentCyrillicStroke-Regular_128: -3119282846749954134
+      AvenuePixelAccentCyrillicStroke-Regular_129: 5367010595130671025
+      AvenuePixelAccentCyrillicStroke-Regular_13: -4300045514241355035
+      AvenuePixelAccentCyrillicStroke-Regular_14: 4819175186961960882
+      AvenuePixelAccentCyrillicStroke-Regular_15: -581197977126488969
+      AvenuePixelAccentCyrillicStroke-Regular_16: 435633269988418305
+      AvenuePixelAccentCyrillicStroke-Regular_17: 5543298375732444381
+      AvenuePixelAccentCyrillicStroke-Regular_18: 4297458259914843829
+      AvenuePixelAccentCyrillicStroke-Regular_19: -8615824624269798636
+      AvenuePixelAccentCyrillicStroke-Regular_2: 4270568446311902421
+      AvenuePixelAccentCyrillicStroke-Regular_20: -8746963666794571440
+      AvenuePixelAccentCyrillicStroke-Regular_21: 5298040474259489247
+      AvenuePixelAccentCyrillicStroke-Regular_22: -6429574129512727235
+      AvenuePixelAccentCyrillicStroke-Regular_23: -2296587145434232624
+      AvenuePixelAccentCyrillicStroke-Regular_24: -2900957068239138155
+      AvenuePixelAccentCyrillicStroke-Regular_25: -4350280775274907331
+      AvenuePixelAccentCyrillicStroke-Regular_26: 5774570960018250883
+      AvenuePixelAccentCyrillicStroke-Regular_27: 524394550125925074
+      AvenuePixelAccentCyrillicStroke-Regular_28: -5412235458633791985
+      AvenuePixelAccentCyrillicStroke-Regular_29: -3242069937645765703
+      AvenuePixelAccentCyrillicStroke-Regular_3: 7172034189150663957
+      AvenuePixelAccentCyrillicStroke-Regular_30: 305259179414369254
+      AvenuePixelAccentCyrillicStroke-Regular_31: -9207048088375795955
+      AvenuePixelAccentCyrillicStroke-Regular_32: -7115014622891663534
+      AvenuePixelAccentCyrillicStroke-Regular_33: -4879847855870835609
+      AvenuePixelAccentCyrillicStroke-Regular_34: 8604283763611234936
+      AvenuePixelAccentCyrillicStroke-Regular_35: 80053224172579936
+      AvenuePixelAccentCyrillicStroke-Regular_36: -7067962850570697845
+      AvenuePixelAccentCyrillicStroke-Regular_37: -10188111280727318
+      AvenuePixelAccentCyrillicStroke-Regular_38: 6687714182617609549
+      AvenuePixelAccentCyrillicStroke-Regular_39: 5349886437514563966
+      AvenuePixelAccentCyrillicStroke-Regular_4: 300791703473779696
+      AvenuePixelAccentCyrillicStroke-Regular_40: -3610027538119574145
+      AvenuePixelAccentCyrillicStroke-Regular_41: 8147235529574706555
+      AvenuePixelAccentCyrillicStroke-Regular_42: -3398078699578325094
+      AvenuePixelAccentCyrillicStroke-Regular_43: -3019264207429010504
+      AvenuePixelAccentCyrillicStroke-Regular_44: -699772829697404009
+      AvenuePixelAccentCyrillicStroke-Regular_45: -8905121760140568
+      AvenuePixelAccentCyrillicStroke-Regular_46: -9112435258064260900
+      AvenuePixelAccentCyrillicStroke-Regular_47: 3712204025677393361
+      AvenuePixelAccentCyrillicStroke-Regular_48: -8557472060986437931
+      AvenuePixelAccentCyrillicStroke-Regular_49: -4832729729970066344
+      AvenuePixelAccentCyrillicStroke-Regular_5: 6561968713562482854
+      AvenuePixelAccentCyrillicStroke-Regular_50: -6310807521202599486
+      AvenuePixelAccentCyrillicStroke-Regular_51: 3056918702390397689
+      AvenuePixelAccentCyrillicStroke-Regular_52: -7330336070084984995
+      AvenuePixelAccentCyrillicStroke-Regular_53: 2898114093307738198
+      AvenuePixelAccentCyrillicStroke-Regular_54: 7403264050250769832
+      AvenuePixelAccentCyrillicStroke-Regular_55: -3366750552384653250
+      AvenuePixelAccentCyrillicStroke-Regular_56: -3256257272452962075
+      AvenuePixelAccentCyrillicStroke-Regular_57: -6360829223207048915
+      AvenuePixelAccentCyrillicStroke-Regular_58: -6603345666104465067
+      AvenuePixelAccentCyrillicStroke-Regular_59: -4887060818789524920
+      AvenuePixelAccentCyrillicStroke-Regular_6: -3416082455890738986
+      AvenuePixelAccentCyrillicStroke-Regular_60: -5348706985096791799
+      AvenuePixelAccentCyrillicStroke-Regular_61: 4007500741768330434
+      AvenuePixelAccentCyrillicStroke-Regular_62: -8246840808199481925
+      AvenuePixelAccentCyrillicStroke-Regular_63: 1348148315573254639
+      AvenuePixelAccentCyrillicStroke-Regular_64: 3695037041523322863
+      AvenuePixelAccentCyrillicStroke-Regular_65: -4299551557704029635
+      AvenuePixelAccentCyrillicStroke-Regular_66: 1869937940150364700
+      AvenuePixelAccentCyrillicStroke-Regular_67: 5652058168871563552
+      AvenuePixelAccentCyrillicStroke-Regular_68: 8989797819040868645
+      AvenuePixelAccentCyrillicStroke-Regular_69: 8747543659802538304
+      AvenuePixelAccentCyrillicStroke-Regular_7: 547525214893603249
+      AvenuePixelAccentCyrillicStroke-Regular_70: -8355825811691089097
+      AvenuePixelAccentCyrillicStroke-Regular_71: 2958440233502594550
+      AvenuePixelAccentCyrillicStroke-Regular_72: -6598524963941406123
+      AvenuePixelAccentCyrillicStroke-Regular_73: 1006941397299461155
+      AvenuePixelAccentCyrillicStroke-Regular_74: 6690712706403013175
+      AvenuePixelAccentCyrillicStroke-Regular_75: -774190946426698291
+      AvenuePixelAccentCyrillicStroke-Regular_76: -2649565131307454816
+      AvenuePixelAccentCyrillicStroke-Regular_77: 8782011624162124824
+      AvenuePixelAccentCyrillicStroke-Regular_78: -8280983414424242822
+      AvenuePixelAccentCyrillicStroke-Regular_79: -7645228198361715650
+      AvenuePixelAccentCyrillicStroke-Regular_8: 6566691215516299208
+      AvenuePixelAccentCyrillicStroke-Regular_80: 1041241304510410184
+      AvenuePixelAccentCyrillicStroke-Regular_81: 3430280473740046025
+      AvenuePixelAccentCyrillicStroke-Regular_82: 1419421276346815238
+      AvenuePixelAccentCyrillicStroke-Regular_83: -7907998618703196583
+      AvenuePixelAccentCyrillicStroke-Regular_84: -3993954647049645970
+      AvenuePixelAccentCyrillicStroke-Regular_85: -2325872421882423750
+      AvenuePixelAccentCyrillicStroke-Regular_86: -1798422209050946628
+      AvenuePixelAccentCyrillicStroke-Regular_87: -2629782418384835962
+      AvenuePixelAccentCyrillicStroke-Regular_88: 643178215419302779
+      AvenuePixelAccentCyrillicStroke-Regular_89: -5078547951751792375
+      AvenuePixelAccentCyrillicStroke-Regular_9: -1552248076762096908
+      AvenuePixelAccentCyrillicStroke-Regular_90: 2539888891523440845
+      AvenuePixelAccentCyrillicStroke-Regular_91: -3854434393557263289
+      AvenuePixelAccentCyrillicStroke-Regular_92: -3201852748858082614
+      AvenuePixelAccentCyrillicStroke-Regular_93: 2766703104942436801
+      AvenuePixelAccentCyrillicStroke-Regular_94: 2520827895904006447
+      AvenuePixelAccentCyrillicStroke-Regular_95: -7610853872707885664
+      AvenuePixelAccentCyrillicStroke-Regular_96: 3339043749325616238
+      AvenuePixelAccentCyrillicStroke-Regular_97: 5903872833069599682
+      AvenuePixelAccentCyrillicStroke-Regular_98: 4401707532015222680
+      AvenuePixelAccentCyrillicStroke-Regular_99: 674464363132887937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

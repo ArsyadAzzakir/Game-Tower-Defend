@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: da8e5658f2ef8ac438e9d4fb839622da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -530095965693905748
+    second: AvenuePixel-Regular_0
+  - first:
+      213: 2421788851350964731
+    second: AvenuePixel-Regular_1
+  - first:
+      213: -111232611859217558
+    second: AvenuePixel-Regular_2
+  - first:
+      213: 8460172306185392138
+    second: AvenuePixel-Regular_3
+  - first:
+      213: -8063261072160177036
+    second: AvenuePixel-Regular_4
+  - first:
+      213: -4850077001189297441
+    second: AvenuePixel-Regular_5
+  - first:
+      213: -6337029626876918062
+    second: AvenuePixel-Regular_6
+  - first:
+      213: 6754342917719948446
+    second: AvenuePixel-Regular_7
+  - first:
+      213: 6594975883142086028
+    second: AvenuePixel-Regular_8
+  - first:
+      213: 5122875963346772264
+    second: AvenuePixel-Regular_9
+  - first:
+      213: -1541871432125105416
+    second: AvenuePixel-Regular_10
+  - first:
+      213: 7418608240359263880
+    second: AvenuePixel-Regular_11
+  - first:
+      213: -8578363310612285991
+    second: AvenuePixel-Regular_12
+  - first:
+      213: -9148200347335677017
+    second: AvenuePixel-Regular_13
+  - first:
+      213: -525314613195387800
+    second: AvenuePixel-Regular_14
+  - first:
+      213: 5739375031468946136
+    second: AvenuePixel-Regular_15
+  - first:
+      213: 2047159288923043883
+    second: AvenuePixel-Regular_16
+  - first:
+      213: 6661955658097327231
+    second: AvenuePixel-Regular_17
+  - first:
+      213: 5422752774632328214
+    second: AvenuePixel-Regular_18
+  - first:
+      213: -3647794881698568330
+    second: AvenuePixel-Regular_19
+  - first:
+      213: -7909184129582250436
+    second: AvenuePixel-Regular_20
+  - first:
+      213: -387755053297531755
+    second: AvenuePixel-Regular_21
+  - first:
+      213: -959077016162685911
+    second: AvenuePixel-Regular_22
+  - first:
+      213: -8919748721174943607
+    second: AvenuePixel-Regular_23
+  - first:
+      213: 6863141024376983900
+    second: AvenuePixel-Regular_24
+  - first:
+      213: -4300108239267411637
+    second: AvenuePixel-Regular_25
+  - first:
+      213: -6597414499684902786
+    second: AvenuePixel-Regular_26
+  - first:
+      213: 3829747248235129884
+    second: AvenuePixel-Regular_27
+  - first:
+      213: 1566717484647891677
+    second: AvenuePixel-Regular_28
+  - first:
+      213: 3142946383598021883
+    second: AvenuePixel-Regular_29
+  - first:
+      213: 3474441316425146041
+    second: AvenuePixel-Regular_30
+  - first:
+      213: -6595425453336190087
+    second: AvenuePixel-Regular_31
+  - first:
+      213: 8797103805952370580
+    second: AvenuePixel-Regular_32
+  - first:
+      213: -2343568662974384183
+    second: AvenuePixel-Regular_33
+  - first:
+      213: -390795315487039382
+    second: AvenuePixel-Regular_34
+  - first:
+      213: 6259233815136667521
+    second: AvenuePixel-Regular_35
+  - first:
+      213: -1549550931855015761
+    second: AvenuePixel-Regular_36
+  - first:
+      213: 3591248651813311702
+    second: AvenuePixel-Regular_37
+  - first:
+      213: 2214298788241861797
+    second: AvenuePixel-Regular_38
+  - first:
+      213: -6586295038441279945
+    second: AvenuePixel-Regular_39
+  - first:
+      213: -141851610091070688
+    second: AvenuePixel-Regular_40
+  - first:
+      213: 7513704769144281315
+    second: AvenuePixel-Regular_41
+  - first:
+      213: 4826874028690163646
+    second: AvenuePixel-Regular_42
+  - first:
+      213: -6859324482491524911
+    second: AvenuePixel-Regular_43
+  - first:
+      213: -7403577808433771794
+    second: AvenuePixel-Regular_44
+  - first:
+      213: 4215178911738165553
+    second: AvenuePixel-Regular_45
+  - first:
+      213: 4389652562745445428
+    second: AvenuePixel-Regular_46
+  - first:
+      213: -1942735148413073683
+    second: AvenuePixel-Regular_47
+  - first:
+      213: 2347436686733604777
+    second: AvenuePixel-Regular_48
+  - first:
+      213: -3807905250880216412
+    second: AvenuePixel-Regular_49
+  - first:
+      213: -6260070655118826166
+    second: AvenuePixel-Regular_50
+  - first:
+      213: 7032439244326327132
+    second: AvenuePixel-Regular_51
+  - first:
+      213: 7126137182707676118
+    second: AvenuePixel-Regular_52
+  - first:
+      213: -5568364003130749909
+    second: AvenuePixel-Regular_53
+  - first:
+      213: -2369116928981979696
+    second: AvenuePixel-Regular_54
+  - first:
+      213: 2450294472535666114
+    second: AvenuePixel-Regular_55
+  - first:
+      213: 5442658645789511943
+    second: AvenuePixel-Regular_56
+  - first:
+      213: -2195428852625244584
+    second: AvenuePixel-Regular_57
+  - first:
+      213: -7729161758204301611
+    second: AvenuePixel-Regular_58
+  - first:
+      213: -1299861695138451476
+    second: AvenuePixel-Regular_59
+  - first:
+      213: 7107294395534771240
+    second: AvenuePixel-Regular_60
+  - first:
+      213: -5197546579179578506
+    second: AvenuePixel-Regular_61
+  - first:
+      213: 7906518440176636584
+    second: AvenuePixel-Regular_62
+  - first:
+      213: -1268512030617428633
+    second: AvenuePixel-Regular_63
+  - first:
+      213: 996406752161558153
+    second: AvenuePixel-Regular_64
+  - first:
+      213: 3285037958887963923
+    second: AvenuePixel-Regular_65
+  - first:
+      213: 7577967462675570161
+    second: AvenuePixel-Regular_66
+  - first:
+      213: 8569204765197308222
+    second: AvenuePixel-Regular_67
+  - first:
+      213: 656868838325205924
+    second: AvenuePixel-Regular_68
+  - first:
+      213: 8749818583475228127
+    second: AvenuePixel-Regular_69
+  - first:
+      213: -2868210389609567707
+    second: AvenuePixel-Regular_70
+  - first:
+      213: -3055834884429322925
+    second: AvenuePixel-Regular_71
+  - first:
+      213: 3339190503359366742
+    second: AvenuePixel-Regular_72
+  - first:
+      213: 8389168707477503907
+    second: AvenuePixel-Regular_73
+  - first:
+      213: 4949017244754149043
+    second: AvenuePixel-Regular_74
+  - first:
+      213: -273069987516507539
+    second: AvenuePixel-Regular_75
+  - first:
+      213: -5055373174903939071
+    second: AvenuePixel-Regular_76
+  - first:
+      213: 3843037271199091599
+    second: AvenuePixel-Regular_77
+  - first:
+      213: 2371010976950033951
+    second: AvenuePixel-Regular_78
+  - first:
+      213: -3230866069741729064
+    second: AvenuePixel-Regular_79
+  - first:
+      213: -6118107423128638613
+    second: AvenuePixel-Regular_80
+  - first:
+      213: -793422756317791406
+    second: AvenuePixel-Regular_81
+  - first:
+      213: -8201433066698482803
+    second: AvenuePixel-Regular_82
+  - first:
+      213: -2408425983003612799
+    second: AvenuePixel-Regular_83
+  - first:
+      213: -9177498287658781093
+    second: AvenuePixel-Regular_84
+  - first:
+      213: 8764836164144708980
+    second: AvenuePixel-Regular_85
+  - first:
+      213: -2746288259012358952
+    second: AvenuePixel-Regular_86
+  - first:
+      213: 2710095780186023612
+    second: AvenuePixel-Regular_87
+  - first:
+      213: -8619233107952270858
+    second: AvenuePixel-Regular_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca472fb1788b4a8f0800000000000000
+      internalID: -530095965693905748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf986cd012ceb9120800000000000000
+      internalID: 2421788851350964731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6341b26782d47ef0800000000000000
+      internalID: -111232611859217558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0017c873e1986570800000000000000
+      internalID: 8460172306185392138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47448ae96ca891090800000000000000
+      internalID: -8063261072160177036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2f1da0aa011bcb0800000000000000
+      internalID: -4850077001189297441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d600ee11295e08a0800000000000000
+      internalID: -6337029626876918062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c7fddf81f3cbd50800000000000000
+      internalID: 6754342917719948446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8db3f0cf9f068b50800000000000000
+      internalID: 6594975883142086028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821eba7eb8c181740800000000000000
+      internalID: 5122875963346772264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa3cd60a1c2a9ae0800000000000000
+      internalID: -1541871432125105416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 149
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e466e93e034f660800000000000000
+      internalID: 7418608240359263880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 149
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f5b4e40883f880800000000000000
+      internalID: -8578363310612285991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba3fad0401b0180800000000000000
+      internalID: -9148200347335677017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cca2d7425b5b8f0800000000000000
+      internalID: -525314613195387800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2f37fbe2b56af40800000000000000
+      internalID: 5739375031468946136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2836e6e688f86c10800000000000000
+      internalID: 2047159288923043883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c7b4edf55047c50800000000000000
+      internalID: 6661955658097327231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c49b4eaec714b40800000000000000
+      internalID: 5422752774632328214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6776ed6c1ed606dc0800000000000000
+      internalID: -3647794881698568330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c71550feec3290800000000000000
+      internalID: -7909184129582250436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594865c55da6e9af0800000000000000
+      internalID: -387755053297531755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ca163098ca0b2f0800000000000000
+      internalID: -959077016162685911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9886f940ccfa63480800000000000000
+      internalID: -8919748721174943607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5196613666ce3f50800000000000000
+      internalID: 6863141024376983900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494cbed652f254c0800000000000000
+      internalID: -4300108239267411637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78154697764174a0800000000000000
+      internalID: -6597414499684902786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ca596d4def52530800000000000000
+      internalID: 3829747248235129884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2c4df50491eb510800000000000000
+      internalID: 1566717484647891677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc6576751dfd9b20800000000000000
+      internalID: 3142946383598021883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 105
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be167a08f1b73030800000000000000
+      internalID: 3474441316425146041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973a3578e775874a0800000000000000
+      internalID: -6595425453336190087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 100
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497270e6d47951a70800000000000000
+      internalID: 8797103805952370580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7bca0c7b8f97fd0800000000000000
+      internalID: -2343568662974384183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 105
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6022882bbd939af0800000000000000
+      internalID: -390795315487039382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 100
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1878555fdf34dd650800000000000000
+      internalID: 6259233815136667521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0086923a3ee7ae0800000000000000
+      internalID: -1549550931855015761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4de6f1f9da6d130800000000000000
+      internalID: 3591248651813311702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acebbb1405cabe10800000000000000
+      internalID: 2214298788241861797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e2ac7ee87c894a0800000000000000
+      internalID: -6586295038441279945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b54b156ba080ef0800000000000000
+      internalID: -141851610091070688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 78
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8d000adaa064860800000000000000
+      internalID: 7513704769144281315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 78
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7c2afea508cf240800000000000000
+      internalID: 4826874028690163646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8d3f5b9b8cec0a0800000000000000
+      internalID: -6859324482491524911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea07558535314990800000000000000
+      internalID: -7403577808433771794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139fed223e25f7a30800000000000000
+      internalID: 4215178911738165553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c43d99fbd2bec30800000000000000
+      internalID: 4389652562745445428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de64c22fca40a05e0800000000000000
+      internalID: -1942735148413073683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7f975ba35c39020800000000000000
+      internalID: 2347436686733604777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2a0f6795a972bc0800000000000000
+      internalID: -3807905250880216412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 78
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45abcc08e2cf19a0800000000000000
+      internalID: -6260070655118826166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c535696bb3e389160800000000000000
+      internalID: 7032439244326327132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d37ef3030025e260800000000000000
+      internalID: 7126137182707676118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cc15d017239b2b0800000000000000
+      internalID: -5568364003130749909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2aa884b43f1fd0800000000000000
+      internalID: -2369116928981979696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd679e27d1310220800000000000000
+      internalID: 2450294472535666114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7011effa335388b40800000000000000
+      internalID: 5442658645789511943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef0a527154881e0800000000000000
+      internalID: -2195428852625244584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dee2bee4508cb490800000000000000
+      internalID: -7729161758204301611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefa22cdca6f5fde0800000000000000
+      internalID: -1299861695138451476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82489ffb89e22a260800000000000000
+      internalID: 7107294395534771240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 61
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b547c8cea9ed7b0800000000000000
+      internalID: -5197546579179578506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2ddcc71a899bd60800000000000000
+      internalID: 7906518440176636584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d1dbd6707556ee0800000000000000
+      internalID: -1268512030617428633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_64
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 42
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ee36279a2f3dd00800000000000000
+      internalID: 996406752161558153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_65
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df0356e9cc69d20800000000000000
+      internalID: 3285037958887963923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 42
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdde3ce1495a2960800000000000000
+      internalID: 7577967462675570161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_67
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 41
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319b25155eebe670800000000000000
+      internalID: 8569204765197308222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abb56c6abaad1900800000000000000
+      internalID: 656868838325205924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_69
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 46
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd0725a4a99d6970800000000000000
+      internalID: 8749818583475228127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aac3ad8d11238d0800000000000000
+      internalID: -2868210389609567707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355e755fc5e7795d0800000000000000
+      internalID: -3055834884429322925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656c71e2210375e20800000000000000
+      internalID: 3339190503359366742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aff402ed705c6470800000000000000
+      internalID: 8389168707477503907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 21
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be7adc86f07ea440800000000000000
+      internalID: 4949017244754149043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 21
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a124b0b4cd53cf0800000000000000
+      internalID: -273069987516507539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 21
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100efc6c1e4b7d9b0800000000000000
+      internalID: -5055373174903939071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_77
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 21
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b88607906355530800000000000000
+      internalID: 3843037271199091599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e98afdbe587e020800000000000000
+      internalID: 2371010976950033951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_79
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 21
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da8e2c6d68a923d0800000000000000
+      internalID: -3230866069741729064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bacbab6bd181ba0800000000000000
+      internalID: -6118107423128638613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 14
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b77f4f4323df4f0800000000000000
+      internalID: -793422756317791406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b5b423418ae2e80800000000000000
+      internalID: -8201433066698482803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189af3f245d839ed0800000000000000
+      internalID: -2408425983003612799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_84
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b75d8ee9f2a080800000000000000
+      internalID: -9177498287658781093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47db75e9d04f2a970800000000000000
+      internalID: 8764836164144708980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_86
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc0ebef06933e9d0800000000000000
+      internalID: -2746288259012358952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e54dd0c13c9520800000000000000
+      internalID: 2710095780186023612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvenuePixel-Regular_88
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1083ca725526880800000000000000
+      internalID: -8619233107952270858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AvenuePixel-Regular_0: -530095965693905748
+      AvenuePixel-Regular_1: 2421788851350964731
+      AvenuePixel-Regular_10: -1541871432125105416
+      AvenuePixel-Regular_11: 7418608240359263880
+      AvenuePixel-Regular_12: -8578363310612285991
+      AvenuePixel-Regular_13: -9148200347335677017
+      AvenuePixel-Regular_14: -525314613195387800
+      AvenuePixel-Regular_15: 5739375031468946136
+      AvenuePixel-Regular_16: 2047159288923043883
+      AvenuePixel-Regular_17: 6661955658097327231
+      AvenuePixel-Regular_18: 5422752774632328214
+      AvenuePixel-Regular_19: -3647794881698568330
+      AvenuePixel-Regular_2: -111232611859217558
+      AvenuePixel-Regular_20: -7909184129582250436
+      AvenuePixel-Regular_21: -387755053297531755
+      AvenuePixel-Regular_22: -959077016162685911
+      AvenuePixel-Regular_23: -8919748721174943607
+      AvenuePixel-Regular_24: 6863141024376983900
+      AvenuePixel-Regular_25: -4300108239267411637
+      AvenuePixel-Regular_26: -6597414499684902786
+      AvenuePixel-Regular_27: 3829747248235129884
+      AvenuePixel-Regular_28: 1566717484647891677
+      AvenuePixel-Regular_29: 3142946383598021883
+      AvenuePixel-Regular_3: 8460172306185392138
+      AvenuePixel-Regular_30: 3474441316425146041
+      AvenuePixel-Regular_31: -6595425453336190087
+      AvenuePixel-Regular_32: 8797103805952370580
+      AvenuePixel-Regular_33: -2343568662974384183
+      AvenuePixel-Regular_34: -390795315487039382
+      AvenuePixel-Regular_35: 6259233815136667521
+      AvenuePixel-Regular_36: -1549550931855015761
+      AvenuePixel-Regular_37: 3591248651813311702
+      AvenuePixel-Regular_38: 2214298788241861797
+      AvenuePixel-Regular_39: -6586295038441279945
+      AvenuePixel-Regular_4: -8063261072160177036
+      AvenuePixel-Regular_40: -141851610091070688
+      AvenuePixel-Regular_41: 7513704769144281315
+      AvenuePixel-Regular_42: 4826874028690163646
+      AvenuePixel-Regular_43: -6859324482491524911
+      AvenuePixel-Regular_44: -7403577808433771794
+      AvenuePixel-Regular_45: 4215178911738165553
+      AvenuePixel-Regular_46: 4389652562745445428
+      AvenuePixel-Regular_47: -1942735148413073683
+      AvenuePixel-Regular_48: 2347436686733604777
+      AvenuePixel-Regular_49: -3807905250880216412
+      AvenuePixel-Regular_5: -4850077001189297441
+      AvenuePixel-Regular_50: -6260070655118826166
+      AvenuePixel-Regular_51: 7032439244326327132
+      AvenuePixel-Regular_52: 7126137182707676118
+      AvenuePixel-Regular_53: -5568364003130749909
+      AvenuePixel-Regular_54: -2369116928981979696
+      AvenuePixel-Regular_55: 2450294472535666114
+      AvenuePixel-Regular_56: 5442658645789511943
+      AvenuePixel-Regular_57: -2195428852625244584
+      AvenuePixel-Regular_58: -7729161758204301611
+      AvenuePixel-Regular_59: -1299861695138451476
+      AvenuePixel-Regular_6: -6337029626876918062
+      AvenuePixel-Regular_60: 7107294395534771240
+      AvenuePixel-Regular_61: -5197546579179578506
+      AvenuePixel-Regular_62: 7906518440176636584
+      AvenuePixel-Regular_63: -1268512030617428633
+      AvenuePixel-Regular_64: 996406752161558153
+      AvenuePixel-Regular_65: 3285037958887963923
+      AvenuePixel-Regular_66: 7577967462675570161
+      AvenuePixel-Regular_67: 8569204765197308222
+      AvenuePixel-Regular_68: 656868838325205924
+      AvenuePixel-Regular_69: 8749818583475228127
+      AvenuePixel-Regular_7: 6754342917719948446
+      AvenuePixel-Regular_70: -2868210389609567707
+      AvenuePixel-Regular_71: -3055834884429322925
+      AvenuePixel-Regular_72: 3339190503359366742
+      AvenuePixel-Regular_73: 8389168707477503907
+      AvenuePixel-Regular_74: 4949017244754149043
+      AvenuePixel-Regular_75: -273069987516507539
+      AvenuePixel-Regular_76: -5055373174903939071
+      AvenuePixel-Regular_77: 3843037271199091599
+      AvenuePixel-Regular_78: 2371010976950033951
+      AvenuePixel-Regular_79: -3230866069741729064
+      AvenuePixel-Regular_8: 6594975883142086028
+      AvenuePixel-Regular_80: -6118107423128638613
+      AvenuePixel-Regular_81: -793422756317791406
+      AvenuePixel-Regular_82: -8201433066698482803
+      AvenuePixel-Regular_83: -2408425983003612799
+      AvenuePixel-Regular_84: -9177498287658781093
+      AvenuePixel-Regular_85: 8764836164144708980
+      AvenuePixel-Regular_86: -2746288259012358952
+      AvenuePixel-Regular_87: 2710095780186023612
+      AvenuePixel-Regular_88: -8619233107952270858
+      AvenuePixel-Regular_9: 5122875963346772264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
