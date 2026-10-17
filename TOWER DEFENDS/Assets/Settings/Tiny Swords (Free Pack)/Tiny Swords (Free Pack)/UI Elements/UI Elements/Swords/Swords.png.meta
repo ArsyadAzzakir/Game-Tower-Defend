@@ -67,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,6 +126,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -133,12 +146,12 @@ TextureImporter:
       name: Swords_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 0
-        width: 107
-        height: 640
+        x: 0
+        y: 512
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -155,12 +168,12 @@ TextureImporter:
       name: Swords_1
       rect:
         serializedVersion: 2
-        x: 191
-        y: 530
-        width: 66
-        height: 92
+        x: 149
+        y: 512
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -177,12 +190,12 @@ TextureImporter:
       name: Swords_2
       rect:
         serializedVersion: 2
-        x: 319
-        y: 531
-        width: 94
-        height: 90
+        x: 298
+        y: 512
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -199,12 +212,12 @@ TextureImporter:
       name: Swords_3
       rect:
         serializedVersion: 2
-        x: 191
-        y: 402
-        width: 66
-        height: 92
+        x: 0
+        y: 384
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -221,12 +234,12 @@ TextureImporter:
       name: Swords_4
       rect:
         serializedVersion: 2
-        x: 319
-        y: 403
-        width: 94
-        height: 90
+        x: 149
+        y: 384
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -243,12 +256,12 @@ TextureImporter:
       name: Swords_5
       rect:
         serializedVersion: 2
-        x: 191
-        y: 274
-        width: 66
-        height: 92
+        x: 298
+        y: 384
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -265,12 +278,12 @@ TextureImporter:
       name: Swords_6
       rect:
         serializedVersion: 2
-        x: 319
-        y: 275
-        width: 94
-        height: 90
+        x: 0
+        y: 256
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -287,12 +300,12 @@ TextureImporter:
       name: Swords_7
       rect:
         serializedVersion: 2
-        x: 191
-        y: 146
-        width: 66
-        height: 92
+        x: 149
+        y: 256
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -309,12 +322,12 @@ TextureImporter:
       name: Swords_8
       rect:
         serializedVersion: 2
-        x: 319
-        y: 147
-        width: 94
-        height: 90
+        x: 298
+        y: 256
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -331,12 +344,12 @@ TextureImporter:
       name: Swords_9
       rect:
         serializedVersion: 2
-        x: 191
-        y: 18
-        width: 66
-        height: 92
+        x: 0
+        y: 128
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -353,12 +366,12 @@ TextureImporter:
       name: Swords_10
       rect:
         serializedVersion: 2
-        x: 319
-        y: 19
-        width: 94
-        height: 90
+        x: 149
+        y: 128
+        width: 149
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,11 +384,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Swords_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 128
+        width: 149
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f51b110ab008642b9f98d8e0453835
+      internalID: -1971532560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 149
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7630bd4483324fa68b498ad6e5a7a
+      internalID: -756612598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 149
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094150cf94027ea41807ad419214c8f9
+      internalID: -701267107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 149
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38553785e70fba445959b9603c816f98
+      internalID: 12439187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 72a37b4e6bf483047942b2581ea45a13
     internalID: 0
     vertices: []
     indices: 
@@ -383,11 +484,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":5.0},"gridSpriteSize":{"x":149.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Swords_0: 4942803658038726614
       Swords_1: 6123003023063038561
       Swords_10: 1340437603416802206
+      Swords_11: -1971532560
+      Swords_12: -756612598
+      Swords_13: -701267107
+      Swords_14: 12439187
       Swords_2: 4978276593797209138
       Swords_3: -9004990608046106943
       Swords_4: 8289387723579576647

@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3440983652724923082}
   - component: {fileID: 874795904089136538}
   - component: {fileID: 8303564541452867408}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -147,6 +147,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyMovement
   rb: {fileID: 4401863220510812580}
   moveSpeed: 2
+  attackDamage: 100
+  attackCooldown: 1
+  defenderLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  stopDistance: 0.3
 --- !u!50 &4401863220510812580
 Rigidbody2D:
   serializedVersion: 5
@@ -208,7 +214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb434933e3dca2543bf4c8ac7a4f5a15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
-  hitPoints: 2
+  hitPoints: 400
   healthScaleFactor: 1.3
   suaraAsapMati: {fileID: 8300000, guid: 611a2ad822c163347bead8ff7ad0b3a7, type: 3}
   efekAsap: {fileID: 5855525955167054679, guid: 11f1db392d2d39a439a2b0b24aa5f53f, type: 3}

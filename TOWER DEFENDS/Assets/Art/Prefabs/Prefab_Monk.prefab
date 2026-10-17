@@ -128,6 +128,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MonkTower
   range: 2
-  fireRate: 1
-  damage: 3
+  fireRate: 0.5
+  damage: 300
   explosionPrefab: {fileID: 8005265871712755992, guid: 93c6a312a1eb84348abdd266604a031a, type: 3}

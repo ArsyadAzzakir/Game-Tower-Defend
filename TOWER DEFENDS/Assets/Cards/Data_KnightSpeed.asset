@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26985f092f7935047ae049c72d5a7aff, type: 3}
+  m_Name: Data_KnightSpeed
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: Relentless Swing
+  cardIcon: {fileID: -2792743841649992654, guid: 8c4d618804cb2c24bb534d677b2af0ed, type: 3}
+  targetUnit: 5
+  buffAmount: 0.02
